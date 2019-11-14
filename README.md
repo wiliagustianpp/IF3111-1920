@@ -1,12 +1,12 @@
-## Simple `LAPOR!`
+## Simple `LAPOR` :heavy_exclamation_mark:
 Anda mengetahui aplikasi `lapor` yang dibuat oleh pemerintah republik indonesia? jika tidak silahkan kunjungi 
-http://lapor.go.id
+http://lapor.go.id, maka anda akan mendapatkan laman seperti gambar di bawah
 
 ![](tampilan/lapor.png)
 
-Membuat aplikasi web seperti lapor.go.id untuk mengumpulkan komentar terkait layanan
+Kali ini kita akan membuat aplikasi web seperti `lapor` untuk mengumpulkan laporan/komentar terkait layanan
 di program studi teknik informatika ITERA.
-**Luangkan waktu untuk membaca spesifikasi ini sampai selesai.**
+**Luangkan waktu untuk membaca spesifikasi ini sampai selesai.** :kissing_heart:
 
 ### Anggota Tim
 Project dikerjakan secara **individu**
@@ -91,10 +91,10 @@ anchor tag.
 - PHP: mysqli_connect, mysql_query, $_GET, $_POST, var_dump, print_r, echo, require, fungsi header.
 - SQL query: SELECT, INSERT, UPDATE, DELETE, WHERE, operator LIKE.
 
-Jika ada pertanyaan silakan tanyakan lewat asisten.
+Jika ada pertanyaan silakan tanyakan lewat `Asisten`.
 
 ### About
 Asisten     : Enrinal
 
-Dosen       : Rajiv
+Dosen       : @achluky
 
