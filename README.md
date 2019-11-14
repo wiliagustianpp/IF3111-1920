@@ -1,4 +1,9 @@
 ## Simple `LAPOR!`
+Anda mengetahui aplikasi `lapor` yang dibuat oleh pemerintah republik indonesia? jika tidak silahkan kunjungi 
+http://lapor.go.id
+
+![](tampilan/lapor.png)
+
 Membuat aplikasi web seperti lapor.go.id untuk mengumpulkan komentar terkait layanan
 di program studi teknik informatika ITERA.
 **Luangkan waktu untuk membaca spesifikasi ini sampai selesai.**
@@ -90,5 +95,6 @@ Jika ada pertanyaan silakan tanyakan lewat asisten.
 
 ### About
 Asisten     : Enrinal
+
 Dosen       : Rajiv
 
