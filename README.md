@@ -35,14 +35,14 @@ Anda diminta untuk membuat tampilan sedemikian hingga mirip dengan tampilan beri
 responsive. Desain tampilan tidak perlu dibuat indah. Icon dan jenis font tidak harus sama dengan contoh. Warna font, 
 garis pemisah, dan perbedaan ukuran font harus terlihat sesuai contoh. Perhatikan juga tata letak elemen-elemen.
 
-![](tampilan/list.jpg)
+![](tampilan/utama.png)
 - Search bar diletakkan di bagian paling atas dibawah judul.
 - Tombol "search" berada di sebelah kanan search bar.
 - ** BUAT LAPOR!** digunakan untuk mengirimkan laporan/komentar baru.
 - Tampilan search bar ini harus tetap ada walaupun anda tidak mengimplementasikan fitur search.
 - Tampilan pertanyaan tidak harus urut berdasarkan "komentar terbaru", namun tulisan "komentar terbaru" ini harus ada..
 
-![](tampilan/create.jpg)
+![](tampilan/buat.png)
 - Tampilan di atas digunakan untuk mengajukan atau mengubah laporan/komentar.
 - Perhatikan label dari field pada form berada di dalam field (tidak di luar)
 - Apek yang dilaporkan ditampilkan dalam bentuk `select`
