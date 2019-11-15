@@ -37,10 +37,11 @@ garis pemisah, dan perbedaan ukuran font harus terlihat sesuai contoh. Perhatika
 
 ![](tampilan/utama.png)
 - Search bar diletakkan di bagian paling atas dibawah judul.
-- Tombol "search" berada di sebelah kanan search bar.
-- ** BUAT LAPOR!** digunakan untuk mengirimkan laporan/komentar baru.
+- Tombol "cari" berada di sebelah kanan search bar.
+- ** Buat LAPOR!** digunakan untuk mengirimkan laporan/komentar baru.
 - Tampilan search bar ini harus tetap ada walaupun anda tidak mengimplementasikan fitur search.
-- Tampilan pertanyaan tidak harus urut berdasarkan "komentar terbaru", namun tulisan "komentar terbaru" ini harus ada..
+- Tampilan pertanyaan tidak harus urut berdasarkan "Laporan/Komentar terakhir", 
+namun tulisan "Laporan/komentar Terakhir" ini harus ada..
 
 ![](tampilan/buat.png)
 - Tampilan di atas digunakan untuk mengajukan atau mengubah laporan/komentar.
@@ -58,7 +59,8 @@ panjang harus dipotong. Silakan definisikan sendiri seberapa panjang agar tetap 
 Pada masing-masing elemen list, terdapat menu untuk mengubah dan menghapus pertanyaan.
 
 ### Kirim laporan/komentar `LAPOR!`
-Pengguna dapat mengajukan laporan/komentar. Form yang digunakan memiliki komentar (textarea), data lapiran berupa gambar 
+Pengguna dapat mengajukan laporan/komentar. Form yang digunakan memiliki komentar (textarea), 
+data lapiran berupa gambar 
 dan file berekstention `doc, docx, xls, xlsx, ppt, pptx, pdf``. Gunakan HTTP POST.
 
 ### Ubah Laporan/komentar
@@ -69,8 +71,9 @@ form untuk bertanya, namun field-field yang ada sudah terisi. Gunakan HTTP POST 
 Pengguna dapat menghapus laporan/komentar yang sudah dibuat. Lakukan konfirmasi penghapusan dengan `javascript`.
 
 ### Lihat Laporan/komentar
-Pengguna dapat melihat laporan/komentar. Pada halaman ini terdapat informasi jenis identitas 
-(anonim, dosen, staff dan mahasiswa), isi laporan/komentar, waktu pengiriman komentar `datetime` dan file lapiran. 
+Pengguna dapat melihat laporan/komentar. Pada halaman ini terdapat informasi aspek yang dilaporkan 
+(Dosen, Staff, Mahasiswa, Infrastruktur dan Pengajaran ), isi laporan/komentar, waktu pengiriman komentar `datetime` 
+dan file lapiran. 
 
 ### Validasi
 Validasi **wajib** dilakukan pada *client-side*, dengan menggunakan **javascript** bukan HTML 5 input type, yaitu:
@@ -94,7 +97,7 @@ anchor tag.
 Jika ada pertanyaan silakan tanyakan lewat `Asisten`.
 
 ### About
-Asisten     : Enrinal
 
-Dosen       : @achluky
+Dosen       : Rajif Agung Yunmar, S.Kom., M.Cs.	,Ahmad Luky Ramdani, S.Komp., M.Kom. ,
+Arief Ichwani, S.Kom., M.Cs., Andre Febrianto, S.Kom., M.Eng, Ilham Firman Ashari, S.Kom., M.T
 
