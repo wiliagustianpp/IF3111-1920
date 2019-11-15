@@ -47,7 +47,7 @@ garis pemisah, dan perbedaan ukuran font harus terlihat sesuai contoh. Perhatika
 - Perhatikan label dari field pada form berada di dalam field (tidak di luar)
 - Apek yang dilaporkan ditampilkan dalam bentuk `select`
 
-![](tampilan/detail.jpg)
+![](tampilan/detail.png)
 - Bagian ini menampilkan laporan/komentar. Bagian `datetime` harus ada. Tanda `kuote` tidak harus ada
 - Perhatikan label dari field pada form berada di dalam field (tidak di luar)
 
