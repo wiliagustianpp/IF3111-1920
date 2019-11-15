@@ -71,7 +71,7 @@ form untuk bertanya, namun field-field yang ada sudah terisi. Gunakan HTTP POST 
 Pengguna dapat menghapus laporan/komentar yang sudah dibuat. Lakukan konfirmasi penghapusan dengan `javascript`.
 
 ### Lihat Laporan/komentar
-Pengguna dapat melihat laporan/komentar. Pada halaman ini terdapat informasi aspek yang dilaporkan 
+Pengguna dapat melihat laporan/komentar. Pada halaman ini terdapat informasi aspek yang dilaporkan.
 (Dosen, Staff, Mahasiswa, Infrastruktur dan Pengajaran ), isi laporan/komentar, waktu pengiriman komentar `datetime` 
 dan file lapiran. 
 
