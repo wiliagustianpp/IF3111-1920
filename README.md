@@ -41,7 +41,7 @@ garis pemisah, dan perbedaan ukuran font harus terlihat sesuai contoh. Perhatika
 - **Buat LAPOR!** digunakan untuk mengirimkan laporan/komentar baru.
 - Tampilan search bar ini harus tetap ada walaupun anda tidak mengimplementasikan fitur search.
 - Tampilan pertanyaan tidak harus urut berdasarkan "Laporan/Komentar terakhir", 
-namun tulisan "Laporan/komentar Terakhir" ini harus ada..
+namun tulisan "Laporan/komentar Terakhir" ini harus ada.
 
 ![](tampilan/buat.png)
 - Tampilan di atas digunakan untuk mengajukan atau mengubah laporan/komentar.
