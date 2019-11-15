@@ -8,10 +8,10 @@ Kali ini kita akan membuat aplikasi web seperti `lapor` untuk mengumpulkan lapor
 di program studi teknik informatika ITERA.
 **Luangkan waktu untuk membaca spesifikasi ini sampai selesai.** :kissing_heart:
 
-### Anggota Tim
+### Anggota Tim :cyclone:
 Project dikerjakan secara **individu**
 
-### Petunjuk Pengerjaan
+### Petunjuk Pengerjaan :umbrella:
 1. Fork pada repository ini dengan akun github anda.
 2. Silakan commit pada repository anda (hasil fork). Lakukan berberapa commit dengan pesan yang bermakna,
 contoh: fix css, membuat post done, jangan seperti final, benerin dikit, oke deh, update deh dll. 
@@ -23,14 +23,14 @@ penilaian (contoh: hanya melakukan satu commit kemudian dikumpulkan).
 4. Pull request dari repository anda ke repository ini dengan 
 format **NIM** - **Nama Lengkap** sebelum **Tanggal 12 Desember 3010**
 
-### Tools
+### Tools :hammer:
 1. Untuk backend, wajib menggunakan PHP framework apapun (Contoh: Codeigniter, Laravel, Slim, Yii dll).
 2. Gunakan MySQL atau basis data relasional lain untuk menyimpan data.
 3. Untuk frontend, gunakan Javascript, HTML dan CSS. **Tidak boleh menggunakan library atau framework CSS atau JS seperti 
 JQuery atau Bootstrap.** CSS sebisa mungkin ada di file yang berbeda (tidak inline styling/embeding styling).
 
 ### Spesifikasi Simple LAPOR!
-#### Tampilan
+#### Tampilan :soccer:
 Anda diminta untuk membuat tampilan sedemikian hingga mirip dengan tampilan berikut. Website yang diminta tidak harus 
 responsive. Desain tampilan tidak perlu dibuat indah. Icon dan jenis font tidak harus sama dengan contoh. Warna font, 
 garis pemisah, dan perbedaan ukuran font harus terlihat sesuai contoh. Perhatikan juga tata letak elemen-elemen.
@@ -38,7 +38,7 @@ garis pemisah, dan perbedaan ukuran font harus terlihat sesuai contoh. Perhatika
 ![](tampilan/utama.png)
 - Search bar diletakkan di bagian paling atas dibawah judul.
 - Tombol "cari" berada di sebelah kanan search bar.
-- ** Buat LAPOR!** digunakan untuk mengirimkan laporan/komentar baru.
+- **Buat LAPOR!** digunakan untuk mengirimkan laporan/komentar baru.
 - Tampilan search bar ini harus tetap ada walaupun anda tidak mengimplementasikan fitur search.
 - Tampilan pertanyaan tidak harus urut berdasarkan "Laporan/Komentar terakhir", 
 namun tulisan "Laporan/komentar Terakhir" ini harus ada..
@@ -94,9 +94,9 @@ anchor tag.
 - PHP: mysqli_connect, mysql_query, $_GET, $_POST, var_dump, print_r, echo, require, fungsi header.
 - SQL query: SELECT, INSERT, UPDATE, DELETE, WHERE, operator LIKE.
 
-Jika ada pertanyaan silakan tanyakan lewat `Asisten`.
+:telephone: Jika ada pertanyaan silakan tanyakan lewat `Asisten`.
 
-### About
+### About :honeybee:
 
 Dosen       : Rajif Agung Yunmar, S.Kom., M.Cs.	,Ahmad Luky Ramdani, S.Komp., M.Kom. ,
 Arief Ichwani, S.Kom., M.Cs., Andre Febrianto, S.Kom., M.Eng, Ilham Firman Ashari, S.Kom., M.T
