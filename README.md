@@ -28,7 +28,13 @@ ujian akhir semester (UAS)**
    - Source code aplikasi
    - Basis data, dan
    - Cara instalasi aplikasi anda
-
+6. Penilaian
+   - Kerjasama tim
+   - Kesesuaian dengan spesifikasi
+   - Pemahaman dalam penggunaan framework
+   - Antarmuka aplikasi
+   - Code
+   
 ### Tools :hammer:
 1. Untuk backend, wajib menggunakan PHP framework apapun (Contoh: Codeigniter, Laravel, Slim, Yii dll).
 2. Gunakan MySQL atau basis data relasional lain untuk menyimpan data.
