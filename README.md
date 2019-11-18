@@ -24,16 +24,16 @@ penilaian (contoh: hanya melakukan satu commit kemudian dikumpulkan).
 4. Pull request dari repository anda ke repository ini dengan 
 format **NIM** - **Nama Lengkap**. **Waktu terkahir proses pull request adalah 4 hari setelah 
 ujian akhir semester (UAS)**
-5. Data yang dikumpulkan adalah 
+5. Data yang dikumpulkan adalah:
    - Source code aplikasi
    - Basis data, dan
    - Cara instalasi aplikasi anda
-6. Penilaian
+6. Penilaian:
    - Kerjasama tim
    - Kesesuaian dengan spesifikasi
    - Pemahaman dalam penggunaan framework
    - Antarmuka aplikasi
-   - Code
+   - Bug free
    
 ### Tools :hammer:
 1. Untuk backend, wajib menggunakan PHP framework apapun (Contoh: Codeigniter, Laravel, Slim, Yii dll).
