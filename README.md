@@ -9,7 +9,7 @@ di program studi teknik informatika ITERA.
 **Luangkan waktu untuk membaca spesifikasi ini sampai selesai.** :kissing_heart:
 
 ### Anggota Tim :cyclone:
-Project dikerjakan secara **individu**
+Project dikerjakan secara **berkelompok** dengan maksimal jumlah anggota adalah 2-3 orang mahasiswa.
 
 ### Petunjuk Pengerjaan :umbrella:
 1. Fork pada repository ini dengan akun github anda.
@@ -18,10 +18,16 @@ contoh: fix css, membuat post done, jangan seperti final, benerin dikit, oke deh
 Disarankan untuk tidak melakukan commit dengan perubahan yang besar karena akan mempengaruhi 
 penilaian (contoh: hanya melakukan satu commit kemudian dikumpulkan).
 3. Ubah **Penjelasan Teknis** pada bagian bawah readme.md ini dengan menjelaskan bagaimana cara anda:
+   - Instalasi Framework, Koneksi basis data 
    - Melakukan validasi pada client-side
    - Melakukan AJAX (mulai dari pengguna melakukan klik pada tombol LAPOR! sampai laporan/komentar terkirim).
 4. Pull request dari repository anda ke repository ini dengan 
-format **NIM** - **Nama Lengkap** sebelum **Tanggal 12 Desember 3010**
+format **NIM** - **Nama Lengkap**. **Waktu terkahir proses pull request adalah 4 hari setelah 
+ujian akhir semester (UAS)**
+5. Data yang dikumpulkan adalah 
+   - Source code aplikasi
+   - Basis data, dan
+   - Cara instalasi aplikasi anda
 
 ### Tools :hammer:
 1. Untuk backend, wajib menggunakan PHP framework apapun (Contoh: Codeigniter, Laravel, Slim, Yii dll).
@@ -91,7 +97,7 @@ Untuk meringankan beban tugas ini, ada berberapa keyword yang bisa anda cari unt
 - CSS: margin, padding, header tag, font-size, text-align, float, clear, border, color, div, span, placeholder, 
 anchor tag.
 - Javascript : XMLHTTPRequest.
-- PHP: mysqli_connect, mysql_query, $_GET, $_POST, var_dump, print_r, echo, require, fungsi header.
+- PHP Framework : [Codeigniter](https://codeigniter.com/en/docs), [Laravel](https://laravel.com/docs/6.x) dll.
 - SQL query: SELECT, INSERT, UPDATE, DELETE, WHERE, operator LIKE.
 
 :telephone: Jika ada pertanyaan silakan tanyakan lewat `Asisten`.
