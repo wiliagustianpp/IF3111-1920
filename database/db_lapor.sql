@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.1
+-- version 4.8.3
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 08 Des 2019 pada 15.49
--- Versi server: 10.4.8-MariaDB
--- Versi PHP: 7.1.32
+-- Waktu pembuatan: 21 Nov 2019 pada 17.35
+-- Versi server: 10.1.35-MariaDB
+-- Versi PHP: 7.2.9
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `db_laporan`
+-- Database: `db_lapor`
 --
 
 -- --------------------------------------------------------
@@ -31,12 +31,19 @@ SET time_zone = "+00:00";
 CREATE TABLE `laporan` (
   `ID` int(20) NOT NULL,
   `author` varchar(35) NOT NULL,
-  `isi` varchar(500) NOT NULL,
+  `isi` varchar(512) NOT NULL,
   `judul` varchar(50) NOT NULL,
   `kategori` varchar(20) NOT NULL,
   `waktu` datetime NOT NULL,
-  `lampiran` varchar(100) NOT NULL
+  `lampiran` varchar(128) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data untuk tabel `laporan`
+--
+
+INSERT INTO `laporan` (`ID`, `author`, `isi`, `judul`, `kategori`, `waktu`, `lampiran`) VALUES
+(1, 'ARIF WICAKSONO', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\r\n	 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\r\n	 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\r\n	 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\r\n	 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\r\n	 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.', 'Prasarana Gedung Serba Guna', 'Infrastruktur', '2019-11-01 05:14:00', 'user.img');
 
 --
 -- Indexes for dumped tables
@@ -56,7 +63,7 @@ ALTER TABLE `laporan`
 -- AUTO_INCREMENT untuk tabel `laporan`
 --
 ALTER TABLE `laporan`
-  MODIFY `ID` int(20) NOT NULL AUTO_INCREMENT;
+  MODIFY `ID` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

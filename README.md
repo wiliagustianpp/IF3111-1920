@@ -96,7 +96,18 @@ Validasi **wajib** dilakukan pada *client-side*, dengan menggunakan **javascript
 Pengguna dapat mencari laporan/komentar dengan melakukan search ke `isi laporan/komentar`.
 
 ### Penjelasan Teknis
-`Silakan isi bagian ini dengan penjelasan anda, sesuai Petunjuk Pengerjaan di atas.`
+Webisite ini menggunakan Framework CodeIgniter 3.1.11 dan menggunakan database MySQL
+
+1. Instalasi Website
+   - Download terlebih dahulu repository ini melalui branch master
+   - import db_lapor.sql ke database anda
+   -
+2. Validasi Inputan 
+	Hal ini akan menejelaskan inputan seperti apa yang di terima oleh sistem
+	- Sistem menerima minimal 20 kata pada isi laporan/komentar
+	-
+3. Petunjuk Penggunaan
+	-
 
 ### Knowledge
 Untuk meringankan beban tugas ini, ada berberapa keyword yang bisa anda cari untuk menyelesaikan tugas ini.
